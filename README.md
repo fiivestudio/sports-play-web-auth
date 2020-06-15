@@ -1,13 +1,13 @@
 ﻿# Fiive Auth Web App (Aplicación de Autenticación)
 ![Fiive](https://fiivestudio.com/wp-content/uploads/2020/06/Fiive-Open-Source_2.png)
 
-Esta solución funciona como un servidor de autenticación basado en token con OAuth2.0 y Owin, permitiendo configurar aplicaciones clientes que podrán tener el acceso para autenticarse  a través de una llave, y a su vez, obtener el token para poder acceder a los datos. 
+Esta solución funciona como un servidor de autenticación basado en token con OAuth2.0 y Owin, permitiendo configurar aplicaciones cliente que podrán tener el acceso para autenticarse a través de una llave y así obtener el token para poder acceder a los datos. 
 
-Esta solución hace parte del proyecto **[Sports Play]([https://fiivestudio.com/2020/06/09/conoce-sports-play/](https://fiivestudio.com/2020/06/09/conoce-sports-play/))** y corresponde a la primera aplicacion de las tres que componentes el proyecto. 
+Esta solución hace parte del proyecto **[Sports Play]([https://fiivestudio.com/2020/06/09/conoce-sports-play/](https://fiivestudio.com/2020/06/09/conoce-sports-play/))** y corresponde a la primera aplicación de las tres que componen el proyecto. 
 
 ## Comenzando 🚀
 
-A continuación describimos brevemente los pasos para colocar en funcionamiento el proyecto. 
+A continuación, describimos brevemente los pasos para colocar en funcionamiento el proyecto. 
 
 ### Pre-requisitos 📋
 
@@ -19,7 +19,7 @@ A continuación describimos brevemente los pasos para colocar en funcionamiento 
 ### Instalación 🔧
 
  1. Crear una base de datos en su *SQL Server* con el nombre **sportsplay**.
- 2. Ejecute el Script de la base de datos *(se encuentra en la carpeta **Base.Datos**)*
+ 2. Ejecutar el Script de la base de datos *(se encuentra en la carpeta **Base.Datos**)*
  3. Descargar el proyecto del repositorio.
  4. Abrir el proyecto con el IDE de Visual Studio. 
  5. Agregar la referencia ***Fiive.Framework.dll***.
